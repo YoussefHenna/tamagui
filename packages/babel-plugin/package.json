@@ -34,5 +34,8 @@
     "@babel/types": "^7.19.4",
     "@tamagui/build": "1.15.14"
   },
+  "browser": {
+    "child_process": false
+  },
   "gitHead": "a49cc7ea6b93ba384e77a4880ae48ac4a5635c14"
 }
